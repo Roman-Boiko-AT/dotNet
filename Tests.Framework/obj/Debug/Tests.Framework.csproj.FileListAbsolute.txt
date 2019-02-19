@@ -1,0 +1,15 @@
+E:\Test Framework\Tests\Tests.Framework\bin\Debug\Tests.Framework.exe.config
+E:\Test Framework\Tests\Tests.Framework\bin\Debug\Tests.Framework.exe
+E:\Test Framework\Tests\Tests.Framework\bin\Debug\Tests.Framework.pdb
+E:\Test Framework\Tests\Tests.Framework\bin\Debug\Newtonsoft.Json.dll
+E:\Test Framework\Tests\Tests.Framework\bin\Debug\System.ValueTuple.dll
+E:\Test Framework\Tests\Tests.Framework\bin\Debug\TechTalk.SpecFlow.dll
+E:\Test Framework\Tests\Tests.Framework\bin\Debug\WebDriver.dll
+E:\Test Framework\Tests\Tests.Framework\bin\Debug\WebDriver.Support.dll
+E:\Test Framework\Tests\Tests.Framework\bin\Debug\Newtonsoft.Json.xml
+E:\Test Framework\Tests\Tests.Framework\bin\Debug\WebDriver.xml
+E:\Test Framework\Tests\Tests.Framework\bin\Debug\WebDriver.Support.xml
+E:\Test Framework\Tests\Tests.Framework\obj\Debug\Tests.Framework.csprojResolveAssemblyReference.cache
+E:\Test Framework\Tests\Tests.Framework\obj\Debug\Tests.Framework.csproj.CoreCompileInputs.cache
+E:\Test Framework\Tests\Tests.Framework\obj\Debug\Tests.Framework.exe
+E:\Test Framework\Tests\Tests.Framework\obj\Debug\Tests.Framework.pdb
